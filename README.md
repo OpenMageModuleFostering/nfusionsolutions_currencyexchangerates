@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension adds the capability in Magento to import currency conversion rates from nFusion Solutions&apos; reliable, enterprise-class cloud platform for global currency data.
